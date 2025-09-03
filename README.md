@@ -1,6 +1,10 @@
 # bharatbank-oracle
 Oracle 23ai BFSI schema for BharatBank — modular, persistent, and ready for prototyping.
 
+How to Pull the image:
+
+docker pull dbhitman/bharatbank-oracle:23ai-v1
+
 
 # 🇮🇳 BharatBank Oracle 23ai Container
 
